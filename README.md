@@ -3,7 +3,7 @@
 </div>
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedkhairi1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RealAhmedKhairi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" alt="Status" />
 </p>
 
@@ -18,7 +18,7 @@ My name is Ahmed Khairi and I have grown an interest in backend development, sys
   </p>
   <p align="left">
   <a href="https://codeforces.com/profile/ahmedkhairi2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedkhairi1" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedkhairi2" height="30" width="40" />
   </a>
 </p>
 
