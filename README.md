@@ -90,12 +90,12 @@ My name is Ahmed Khairi and I have grown an interest in backend development, sys
 
 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhairi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealAhmedKhairi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhairi1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAhmedKhairi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhairi1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealAhmedKhairi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
